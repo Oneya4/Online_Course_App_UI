@@ -203,7 +203,10 @@ class HomeScreen extends StatelessWidget {
                     children: [
                       TextButton.icon(
                         icon: const Icon(Icons.star, color: Colors.amber),
-                        label: const Text('4.9'),
+                        label: const Text(
+                          '4.9',
+                          style: TextStyle(color: Colors.black45),
+                        ),
                         onPressed: () {},
                       ),
                       const Text('\$ 26.99'),
