@@ -5,10 +5,10 @@ I tried BorderRadius.elliptical() and ClipPath() to no success, any assistance w
 
 ## Screenshots
 ###Original Design
-![](assets/screenshots/original-1)		![](assets/screenshots/original-2)
+![](assets/screenshots/original-1.jpg)		![](assets/screenshots/original-2.jpg)
 
 ###Coded
-![](assets/screenshots/coded-1)			![](assets/screenshots/coded-2)
+![](assets/screenshots/coded-1.jpg)		![](assets/screenshots/coded-2.jpg)
 
 
 A few resources to get you started if this is your first Flutter project:
