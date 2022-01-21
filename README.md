@@ -1,10 +1,15 @@
-# online_course_app_ui
+# Online_course_app_ui
 
-A new Flutter project.
+Designed by user @rakib.uiux on Instagram. I had some trouble getting the borders to have the sharp edges.
+I tried BorderRadius.elliptical() and ClipPath() to no success, any assistance will be appreciated
 
-## Getting Started
+## Screenshots
+###Original Design
+![](assets/screenshots/original-1)		![](assets/screenshots/original-2)
 
-This project is a starting point for a Flutter application.
+###Coded
+![](assets/screenshots/coded-1)			![](assets/screenshots/coded-2)
+
 
 A few resources to get you started if this is your first Flutter project:
 
